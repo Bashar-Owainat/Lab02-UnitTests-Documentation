@@ -17,4 +17,4 @@ All you have to do is to enter the operation's number for the operation you want
 
 ## Here is  an demo for the  App
 
-![DemoImage](ATMDemo.PNG)
+![DemoImage](ATMDemo.png)
