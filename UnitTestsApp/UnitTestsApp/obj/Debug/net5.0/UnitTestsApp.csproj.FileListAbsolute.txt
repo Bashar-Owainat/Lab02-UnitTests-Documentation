@@ -1,0 +1,16 @@
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.exe
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.deps.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.runtimeconfig.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\ref\UnitTestsApp.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\bin\Debug\net5.0\UnitTestsApp.pdb
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.csproj.AssemblyReference.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\ref\UnitTestsApp.dll
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.pdb
+C:\Users\LEGION\source\repos\Bashar-Owainat\Lab02-UnitTests-Documentation\UnitTestsApp\UnitTestsApp\obj\Debug\net5.0\UnitTestsApp.genruntimeconfig.cache
